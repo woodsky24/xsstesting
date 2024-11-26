@@ -1,9 +1,9 @@
 {
-    "url": "https://raw.githubusercontent.com/woodsky24/xsstesting/main/xsscookie.yaml",
+    "url": "https://raw.githubusercontent.com/woodsky24/xsstesting/main/xss.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/woodsky24/xsstesting/main/xsscookie.yaml",
-            "name": "XSS payload"
+            "url": "https://raw.githubusercontent.com/woodsky24/xsstesting/main/xss.yaml",
+            "name": "Cross Site Scripting Vulnerability"
         }
     ]
 }
