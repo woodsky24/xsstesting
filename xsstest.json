@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/woodsky24/xsstesting/refs/heads/main/xsscookie.yaml",
+    "url": "https://raw.githubusercontent.com/woodsky24/xsstesting/main/xsscookie.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/woodsky24/xsstesting/refs/heads/main/xsscookie.yaml",
+            "url": "https://raw.githubusercontent.com/woodsky24/xsstesting/main/xsscookie.yaml",
             "name": "XSS payload"
         }
     ]
